@@ -10,9 +10,8 @@ let progresshtml = setInterval(() => {
   htmlStartValue++;
 
   htmlValue.textContent = `${htmlStartValue}%`;
-  htmlProgress.style.background = `conic-gradient(#fca61f ${
-    htmlStartValue * 3.6
-  }deg, #ededed 0deg)`;
+  htmlProgress.style.background = `conic-gradient(#fca61f ${htmlStartValue * 3.6
+    }deg, #ededed 0deg)`;
 
   if (htmlStartValue == htmlEndValue) {
     clearInterval(progresshtml);
@@ -31,9 +30,8 @@ let progressjs = setInterval(() => {
   javascriptStartValue++;
 
   javascriptValue.textContent = `${javascriptStartValue}%`;
-  javascriptProgress.style.background = `conic-gradient(#7d2ae8 ${
-    javascriptStartValue * 3.6
-  }deg, #ededed 0deg)`;
+  javascriptProgress.style.background = `conic-gradient(#7d2ae8 ${javascriptStartValue * 3.6
+    }deg, #ededed 0deg)`;
 
   if (javascriptStartValue == javascriptEndValue) {
     clearInterval(progressjs);
@@ -52,9 +50,8 @@ let progressphp = setInterval(() => {
   phpStartValue++;
 
   phpValue.textContent = `${phpStartValue}%`;
-  phpProgress.style.background = `conic-gradient(#20c997 ${
-    phpStartValue * 3.6
-  }deg, #ededed 0deg)`;
+  phpProgress.style.background = `conic-gradient(#20c997 ${phpStartValue * 3.6
+    }deg, #ededed 0deg)`;
 
   if (phpStartValue == phpEndValue) {
     clearInterval(progressphp);
@@ -73,9 +70,8 @@ let progressreact = setInterval(() => {
   reactStartValue++;
 
   reactValue.textContent = `${reactStartValue}%`;
-  reactProgress.style.background = `conic-gradient(#3f396d ${
-    reactStartValue * 3.6
-  }deg, #ededed 0deg)`;
+  reactProgress.style.background = `conic-gradient(#3f396d ${reactStartValue * 3.6
+    }deg, #ededed 0deg)`;
 
   if (reactStartValue == reactEndValue) {
     clearInterval(progressreact);
@@ -102,23 +98,23 @@ $(document).ready(function () {
 
 
 // javascript for sticky navbar even if u scroll the navbar will be fixed
-document.addEventListener("DOMContentLoaded", function(){
-  window.addEventListener('scroll', function() {
-      if (window.scrollY > 50) {
-        document.getElementById('navbar-top').classList.add('fixed-top');
-        // add padding top to show content behind navbar
-        navbar_height = document.querySelector('.navbar').offsetHeight;
-        document.body.style.paddingTop = navbar_height + 'px';
-      } else {
-        document.getElementById('navbar-top').classList.remove('fixed-top');
-         // remove padding top from body
-        document.body.style.paddingTop = '0';
-      } 
+document.addEventListener("DOMContentLoaded", function () {
+  window.addEventListener('scroll', function () {
+    if (window.scrollY > 50) {
+      document.getElementById('navbar-top').classList.add('fixed-top');
+      // add padding top to show content behind navbar
+      navbar_height = document.querySelector('.navbar').offsetHeight;
+      document.body.style.paddingTop = navbar_height + 'px';
+    } else {
+      document.getElementById('navbar-top').classList.remove('fixed-top');
+      // remove padding top from body
+      document.body.style.paddingTop = '0';
+    }
   });
 }); 
 
 
-// adding funtionality to back to top button 
+adding funtionality to back to top button
 
 //Get the button
 let mybutton = document.getElementById("btn-back-to-top");
@@ -138,7 +134,7 @@ function scrollFunction() {
   }
 }
 // When the user clicks on the button, scroll to the top of the document
-mybutton.addEventListener("click",function(){
+mybutton.addEventListener("click", function () {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 });
