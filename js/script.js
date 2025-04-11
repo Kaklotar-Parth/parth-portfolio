@@ -111,10 +111,10 @@ document.addEventListener("DOMContentLoaded", function () {
       document.body.style.paddingTop = '0';
     }
   });
-}); 
+});
 
 
-adding funtionality to back to top button
+// adding funtionality to back to top button 
 
 //Get the button
 let mybutton = document.getElementById("btn-back-to-top");
