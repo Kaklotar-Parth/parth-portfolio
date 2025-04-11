@@ -1,25 +1,15 @@
-🧑‍💻 My Portfolio
-A personal portfolio website showcasing Parth's resume, projects, and skills. It appears to be a static HTML site, likely with JavaScript and CSS for interactivity and design. The presence of Parth.pdf suggests it includes a downloadable resume.
 
+# My Portfolio
 
+A responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my resume, skills, and projects in a clean, mobile-friendly layout, it includes a downloadable my resume.
 
-<div align="center">
-
-  <h2 align="center">Responsive Portfolio Website</h2>
+## 🌐 Live Demo
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
   <a href="https://parth-kaklotar.netlify.app/"><strong>➥ Live Demo</strong></a>
 
-</div>
-
-
-# Parth Portfolio
-
-A responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my resume, skills, and projects in a clean, mobile-friendly layout.
-
-## 🌐 Live Demo
-[Click here to view](https://parth-kaklotar.netlify.app/)
+<!-- [Click here to view](https://parth-kaklotar.netlify.app/) -->
 
 ## 📁 Project Structure
 - `index.html` - Main landing page
