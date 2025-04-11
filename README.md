@@ -1,13 +1,12 @@
 <div align="center">
-  
- <br />
+
+<br>
 
   <h2 align="center">Responsive Portfolio Website</h2>
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://parth-kaklotar.netlify.app/"><strong>➥ Live Demo</strong></a>
 
+<br/>
 </div>
-
-<br />
