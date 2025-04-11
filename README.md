@@ -36,20 +36,3 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript. T
 <!-- [Click here to view](https://parth-kaklotar.netlify.app/) -->
 
 </div>
-
-cccccccc
-
-xxasww2swekj
-
-ccccccc
-
-xxasww2swekjccccccc
-
-xxasww2swekjccccccc
-
-xxasww2swekjccccccc
-
-xxasww2swekjccccccc
-
-xxasww2swekjccccccc
-xxasww2swekj
