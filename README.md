@@ -24,8 +24,8 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript. T
 - Downloadable resume
 - Clean and modern layout
 
-## 📸 Screenshot
-*(You can add a screenshot here if you want)*
+<!-- ## 📸 Screenshot
+*(You can add a screenshot here if you want)* -->
 
 ## 🛠️ Built With
 - HTML5
