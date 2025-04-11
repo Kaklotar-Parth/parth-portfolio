@@ -28,9 +28,11 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript. T
 ---
 
 ## 🌐 Live Demo
-
+<div align="center">
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
   <a href="https://parth-kaklotar.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 <!-- [Click here to view](https://parth-kaklotar.netlify.app/) -->
+
+</div>
