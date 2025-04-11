@@ -4,7 +4,8 @@ body {
     font-weight: 400;
 }
 
-styling menu icon .nav-menu {
+/* styling menu icon */
+.nav-menu {
     border: none;
     background-color: #fff;
     font-size: 1.5rem;
